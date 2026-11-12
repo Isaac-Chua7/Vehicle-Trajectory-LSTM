@@ -1,5 +1,5 @@
 # Vehicle-Trajectory-LSTM
-This is my vehicle trajectory LSTM repository, which after observing 2 seconds of a vehicles motion, predicts the trajectory of the vehicle  over a 3 second horizon.
+This is my vehicle trajectory LSTM repository, which, after observing 2 seconds of a vehicle's motion, predicts the trajectory of the vehicle  over a 3-second horizon, as proposed in my paper "Trajectory Prediction of Road Vehicles for Proactive Cyclist Crash Avoidance and Risk Assessment"
 
 #Instructions For Use
 Ensure LSTM_Practice.ipnb, rbd_data.csv, and the 4-feature-models folder are downloaded; these files and this folder should be in the same root folder.
